@@ -1,0 +1,6 @@
+[
+  { "player": "Player X", "status": "Out", "return": "2 hafta içinde dönmesi bekleniyor" },
+  { "player": "Player Y", "status": "Day-to-Day", "return": "Maç önü karar" },
+  { "player": "Player Z", "status": "Probable", "return": "Bu hafta oynaması bekleniyor" }
+]
+

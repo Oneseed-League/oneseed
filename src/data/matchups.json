@@ -1,0 +1,44 @@
+[
+  {
+    "week": "Week 5",
+    "matchups": [
+      {
+        "teamA": "Team Ekin",
+        "teamB": "Team Shooter",
+        "scoreA": 1350,
+        "scoreB": 1305,
+        "winner": "Team Ekin",
+        "notes": "Close game, Ekin clinched with a late 3-pointer."
+      },
+      {
+        "teamA": "Team Trash Talker",
+        "teamB": "Team Underdog",
+        "scoreA": 1280,
+        "scoreB": 1250,
+        "winner": "Team Trash Talker",
+        "notes": "Trash Talker dominated rebounds."
+      }
+    ]
+  },
+  {
+    "week": "Week 6",
+    "matchups": [
+      {
+        "teamA": "Team Ekin",
+        "teamB": "Team Trash Talker",
+        "scoreA": 1405,
+        "scoreB": 1380,
+        "winner": "Team Ekin",
+        "notes": "High scoring game with multiple lead changes."
+      },
+      {
+        "teamA": "Team Shooter",
+        "teamB": "Team Underdog",
+        "scoreA": 1320,
+        "scoreB": 1345,
+        "winner": "Team Underdog",
+        "notes": "Underdog upset with solid defense."
+      }
+    ]
+  }
+]

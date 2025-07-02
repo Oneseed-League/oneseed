@@ -1,0 +1,50 @@
+[
+  {
+    "name": "LeBron James",
+    "team": "LAL",
+    "position": "SF",
+    "gamesPlayed": 65,
+    "minutesPerGame": 34.6,
+    "pointsPerGame": 27.8,
+    "reboundsPerGame": 7.7,
+    "assistsPerGame": 7.5,
+    "stealsPerGame": 1.3,
+    "blocksPerGame": 0.8,
+    "turnoversPerGame": 3.9,
+    "fieldGoalPercentage": 0.512,
+    "threePointPercentage": 0.345,
+    "freeThrowPercentage": 0.730
+  },
+  {
+    "name": "Stephen Curry",
+    "team": "GSW",
+    "position": "PG",
+    "gamesPlayed": 67,
+    "minutesPerGame": 33.8,
+    "pointsPerGame": 29.6,
+    "reboundsPerGame": 5.5,
+    "assistsPerGame": 6.3,
+    "stealsPerGame": 1.7,
+    "blocksPerGame": 0.2,
+    "turnoversPerGame": 3.2,
+    "fieldGoalPercentage": 0.485,
+    "threePointPercentage": 0.416,
+    "freeThrowPercentage": 0.908
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "team": "MIL",
+    "position": "PF",
+    "gamesPlayed": 63,
+    "minutesPerGame": 32.8,
+    "pointsPerGame": 28.9,
+    "reboundsPerGame": 11.5,
+    "assistsPerGame": 5.9,
+    "stealsPerGame": 1.2,
+    "blocksPerGame": 1.4,
+    "turnoversPerGame": 3.7,
+    "fieldGoalPercentage": 0.569,
+    "threePointPercentage": 0.306,
+    "freeThrowPercentage": 0.634
+  }
+]
